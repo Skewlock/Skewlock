@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I'm a C/C++ developper. I also know Python, Java, JavaScript, LUA, x86 and ARM assembly. 
-- 🔭 I'm currently working on a Virtual Machine that aim to emulate my own architecture. Of course since it's a custom architecture I had to make my own assembler as well. You can check everything [here](https://github.com/Skewlock/EvaLanguage). 
+- 🔭 I'm currently working on a Virtual Machine that aim to emulate my own custom architecture. Of course since it's a custom architecture I had to make my own assembler as well. You can check everything [here](https://github.com/Skewlock/EvaLanguage). 
 
 - 💬 Enough useless information, go check my VM and feel free to ask me anything or talk to me. Even better let's code together ?
 - 📫 How to reach me: using my [email](mailto:mathias.couriol@pm.me)
