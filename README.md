@@ -3,8 +3,6 @@
 - ⚡ I'm a C/C++ developper. I also know Python, Java, JavaScript, LUA, x86 and ARM assembly. 
 - 🔭 I'm currently working on a Virtual Machine that aim to emulate my own architecture. Of course since it's a custom architecture I had to make my own assembler as well. You can check everything [here](https://github.com/Skewlock/EvaLanguage). 
 
-- 🌱 Aside from that I'm also a computer science student in first year but I wouldn't mind dropping it if I had a good opportunity. I'd love to have a PhD and do research but I'm unsure if I can stay in school long enough (plus in France research doesn't really pay that much and year after year it's dropping).
-
 - 💬 Enough useless information, go check my VM and feel free to ask me anything or talk to me. Even better let's code together ?
 - 📫 How to reach me: using my [email](mailto:mathias.couriol@pm.me)
 <!--
